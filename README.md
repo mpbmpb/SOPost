@@ -74,7 +74,7 @@ This is a short console app written as an exercise given in de udemy course C# I
 <br/>
 The app models a forum post with associated properties, as well as a vote counter.
 <br/>
-I also added a method to format the elapsed time since posting.
+As an extra feature I added a method to format the elapsed time since posting and export the post to the console.
 <br/>
 <br/>
 I wrote all of the exercises for this course using the TDD approach of writing tests first and then production code.
