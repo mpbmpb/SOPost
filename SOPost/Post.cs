@@ -5,9 +5,9 @@ namespace SOPost
 {
     public class Post
     {
-        public string Title { get; private set; }
-        public string Description { get; private set; }
-        public DateTime Created { get; private set; }
+        public string Title { get; }
+        public string Description { get; }
+        public DateTime Created { get; }
         public int Votes { get; private set; }
 
         public Post(string title)

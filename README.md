@@ -52,6 +52,7 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
   * [Specifications](#specifications)
+* [What I learned from this project](#what-i-learned-from-this-project)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
@@ -104,6 +105,11 @@ The given specifications were:
 * We should be able to up-vote or down-vote a post. We should also be able to see the current vote value. 
 * In the main method, create a post, up-vote and down-vote it a few times and then display the the current vote value.
 
+## What I learned from this project
+How to mock DateTime.Now for testing purposes.
+How to capture the console output.
+How to use memorystream.
+How to use using block to automatically dispose of objects.
 
 <!-- GETTING STARTED -->
 ## Getting Started
