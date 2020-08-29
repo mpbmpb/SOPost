@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOPost", "SOPost\SOPost.csproj", "{E5F17B8F-BB37-463D-8A33-FA473342A376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOPost.tests", "SOPost.tests\SOPost.tests.csproj", "{3304E841-5F98-4EEC-BF42-8E3FB39EBE4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5F17B8F-BB37-463D-8A33-FA473342A376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F17B8F-BB37-463D-8A33-FA473342A376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F17B8F-BB37-463D-8A33-FA473342A376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F17B8F-BB37-463D-8A33-FA473342A376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3304E841-5F98-4EEC-BF42-8E3FB39EBE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3304E841-5F98-4EEC-BF42-8E3FB39EBE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3304E841-5F98-4EEC-BF42-8E3FB39EBE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3304E841-5F98-4EEC-BF42-8E3FB39EBE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
