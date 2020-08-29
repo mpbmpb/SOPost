@@ -23,7 +23,7 @@
 <br />
 <p align="center">
 <a href="https://github.com/mpbmpb/SOPost">
-   <img src="/gitAssets/time.svg" height="100" width="100">
+   <img src="/gitAssets/forum.svg" height="100" width="100">
 </a>
 
   <h3 align="center">SOPost</h3>
@@ -189,9 +189,7 @@ Project Link: [https://github.com/mpbmpb/SOPost](https://github.com/mpbmpb/SOPos
 * [flaticon](https://www.flaticon.com)
 * [unsplash](https://unsplash.com)
 * <span>Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus Spiske</a> on <a href="https://unsplash.com/s/photos/code?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-* <div>Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> 
-
-
+* Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
 
 
