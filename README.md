@@ -71,6 +71,7 @@
 </p>
 This is a short console app written as an exercise given in de udemy course C# Intermediate by Mosh Hamedani.
 <br/>
+<br/>
 The app models a forum post with associated properties, as well as a vote counter.
 <br/>
 I also added a method to format the elapsed time since posting.
@@ -78,7 +79,8 @@ I also added a method to format the elapsed time since posting.
 <br/>
 I wrote all of the exercises for this course using the TDD approach of writing tests first and then production code.
 The tests are written using xUnit and Fluent Assertions.
-
+<br/>
+<br/>
 Thank you Mosh Hamedani for making a comprehensive and easy to follow course. :star:
 
 A list of commonly used resources that I found helpful are listed in the acknowledgements.
