@@ -23,7 +23,7 @@
 <br />
 <p align="center">
 <a href="https://github.com/mpbmpb/SOPost">
-   <img src="/gitAssets/forum.svg" height="100" width="100">
+   <img src="/gitAssets/stack-overflow.svg" height="100" width="100">
 </a>
 
   <h3 align="center">SOPost</h3>
