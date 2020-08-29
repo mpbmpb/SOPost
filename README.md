@@ -207,7 +207,7 @@ Project Link: [https://github.com/mpbmpb/SOPost](https://github.com/mpbmpb/SOPos
 [stars-url]: https://github.com/mpbmpb/SOPost/stargazers
 [issues-shield]: https://img.shields.io/github/issues/mpbmpb/SOPost?style=flat
 [issues-url]: https://github.com/mpbmpb/SOPost/issues
-[license-shield]: https://img.shields.io/github/license/mpbmpb/SOPost?style=plastic)
+[license-shield]: https://img.shields.io/github/license/mpbmpb/SOPost?style=plastic
 [license-url]: https://github.com/mpbmpb/SOPost/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/mark-van-den-beemt-7805011b1/
