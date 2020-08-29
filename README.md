@@ -83,6 +83,7 @@ The tests are written using xUnit and Fluent Assertions.
 <br/>
 Thank you Mosh Hamedani for making a comprehensive and easy to follow course. :star:
 <br/>
+<br/>
 A list of commonly used resources that I found helpful are listed in the acknowledgements.
 
 ### Built With
