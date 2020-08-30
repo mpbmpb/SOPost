@@ -106,10 +106,10 @@ The given specifications were:
 * In the main method, create a post, up-vote and down-vote it a few times and then display the the current vote value.
 
 ## What I learned from this project
-How to mock DateTime.Now for testing purposes.
-How to capture the console output.
-How to use memorystream.
-How to use using block to automatically dispose of objects.
+* How to mock DateTime.Now for testing purposes.
+* How to capture the console output.
+* How to use memorystream.
+* How to use using block to automatically dispose of objects.
 
 <!-- GETTING STARTED -->
 ## Getting Started
